@@ -39,14 +39,14 @@
         section {
             padding: 2rem 0;
         }
-        .about, .portfolio, .blog, .contact, .recommendations {
+        .about, .blog, .contact, .recommendations {
             background: #fff;
             padding: 2rem;
             margin: 1rem 0;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .about h2, .portfolio h2, .blog h2, .contact h2, .recommendations h2 {
+        .about h2, .blog h2, .contact h2, .recommendations h2 {
             margin-top: 0;
             font-size: 1.5rem;
         }
@@ -108,7 +108,6 @@
             <nav>
                 <a href="#highlight">Son Teknolojik Gelişmeler</a>
                 <a href="#about">Hakkında</a>
-                <a href="#portfolio">Portföy</a>
                 <a href="#blog">Blog</a>
                 <a href="#recommendations">Öneriler</a>
                 <a href="#contact">İletişim</a>
@@ -132,27 +131,21 @@
         <section id="about" class="about">
             <h2>Hakkında</h2>
             <p>Merhaba! Ben Gülnisa Oğuz, bir yazılım geliştirici ve teknoloji meraklısıyım. Yıllardır teknoloji ve yazılım dünyasında çalışıyorum ve çeşitli projelerle deneyim kazandım.</p>
-            <p>Üzerinde çalıştığım projeler, yazılım geliştirme süreçleri ve diğer kariyer detaylarım hakkında daha fazla bilgiye bu sayfada ulaşabilirsiniz.</p>
-        </section>
-        <section id="portfolio" class="portfolio">
-            <h2>Portföy</h2>
-            <p>Burada, üzerinde çalıştığım projeleri ve başarılarımı bulabilirsiniz.</p>
-            <ul>
-                <li>Proje 1 - Açıklama</li>
-                <li>Proje 2 - Açıklama</li>
-                <li>Proje 3 - Açıklama</li>
-            </ul>
+            <p>Üzerinde çalıştığım projeler ve yazılım geliştirme süreçleri hakkında daha fazla bilgiye bu sayfada ulaşabilirsiniz.</p>
         </section>
         <section id="blog" class="blog">
             <h2>Blog</h2>
-            <p>Burada, teknoloji ve yazılım hakkında yazdığım makaleleri bulabilirsiniz.</p>
             <article>
-                <h3>Makale Başlığı 1</h3>
-                <p>Makale özeti veya ilk birkaç cümle burada yer alacak.</p>
+                <h3>Yapay Zeka ve Günümüz İş Dünyası</h3>
+                <p>Yapay zeka (YZ) teknolojisi, iş dünyasında devrim yaratıyor. Özellikle otomasyon, veri analizi ve müşteri hizmetleri gibi alanlarda YZ'nin etkisi giderek artıyor. Şirketler, bu teknolojiyi kullanarak verimliliklerini artırıyor ve maliyetlerini düşürüyor. Yapay zeka uygulamalarının gelecekte iş süreçlerini nasıl daha da dönüştüreceğini merakla bekliyoruz.</p>
             </article>
             <article>
-                <h3>Makale Başlığı 2</h3>
-                <p>Makale özeti veya ilk birkaç cümle burada yer alacak.</p>
+                <h3>Metaverse ve Sosyal Etkileşimler</h3>
+                <p>Metaverse, sanal dünyalarda etkileşimde bulunma şeklimizi değiştiriyor. İnsanlar artık sadece sosyal medya üzerinden değil, sanal gerçeklik ortamlarında da etkileşimde bulunuyor. Bu yeni platformlar, sosyal etkileşimlerimizi nasıl yeniden şekillendirecek ve hayatımıza nasıl yeni dinamikler katacak, önümüzdeki yıllarda daha iyi anlaşılacak.</p>
+            </article>
+            <article>
+                <h3>Kuantum Bilgisayarların Geleceği</h3>
+                <p>Kuantum bilgisayarlar, klasik bilgisayarlardan çok daha güçlü işlem kapasitelerine sahip. Bu teknolojinin gelişimi, özellikle karmaşık hesaplamalar ve büyük veri analizleri konusunda devrim yaratabilir. Kuantum bilgisayarların önündeki zorluklar ve bu alandaki ilerlemeler, teknoloji dünyasında büyük bir ilgi ile takip ediliyor.</p>
             </article>
         </section>
         <section id="recommendations" class="recommendations">
@@ -187,15 +180,4 @@
     </footer>
 </body>
 </html>
-- 👋 Hi, I’m @Story-7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Story-7/Story-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
