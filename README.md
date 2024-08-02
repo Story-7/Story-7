@@ -164,7 +164,6 @@
             <h3>Filmler</h3>
             <ul>
                 <li>**"Oppenheimer"** - **Christopher Nolan**</li>
-                <li>**"Barbie"** - **Greta Gerwig**</li>
                 <li>**"Killers of the Flower Moon"** - **Martin Scorsese**</li>
                 <li>**"Dune: Part Two"** - **Denis Villeneuve**</li>
                 <li>**"The Marvels"** - **Nia DaCosta**</li>
